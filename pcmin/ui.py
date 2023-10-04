@@ -45,7 +45,7 @@ class PulseCasterUI(Gtk.Application):
         self.repop_sources()
 
         self.listener = PulseCasterListener(self)
-        self.file_prefix = 'deneme2'
+        self.file_prefix = ''
 
         self.bus = dbus.SystemBus()
 
