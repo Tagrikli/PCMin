@@ -1,0 +1,11 @@
+2023-10-06 20:16:37.830 | DEBUG    | cli:_repopulate_sources:102 - Rec Device 0: alsa_input.pci-0000_00_1f.3.analog-stereo
+2023-10-06 20:16:37.831 | DEBUG    | cli:_repopulate_sources:102 - Rec Device 1: alsa_output.pci-0000_00_1f.3.analog-stereo.monitor
+2023-10-06 20:16:37.832 | DEBUG    | cli:_create_recordings_folder:180 - Recordings folder already exists (/home/tagrikli/Call Recordings/)
+2023-10-06 20:17:00.877 | DEBUG    | cli:_create_tempfile:203 - Rec ID: 0, Tempfile: /tmp/PCMin-0-tmp.jl5r5hoy
+2023-10-06 20:17:00.878 | DEBUG    | cli:_create_tempfile:203 - Rec ID: 1, Tempfile: /tmp/PCMin-1-tmp.29el2idh
+2023-10-06 20:17:00.886 | DEBUG    | cli:_start_recording:151 - Recording started.
+2023-10-06 20:17:05.097 | DEBUG    | cli:_stop_recording:154 - Recording ended.
+2023-10-06 20:17:05.101 | DEBUG    | cli:_relocate_recording:192 - Rec 0 relocated to "/home/tagrikli/Call Recordings/2023-10-06_20.17.05-0.wav"
+2023-10-06 20:17:05.101 | DEBUG    | cli:_delete_tempfile:197 - Tempfile deleted. (/tmp/PCMin-0-tmp.jl5r5hoy)
+2023-10-06 20:17:05.102 | DEBUG    | cli:_relocate_recording:192 - Rec 1 relocated to "/home/tagrikli/Call Recordings/2023-10-06_20.17.05-1.wav"
+2023-10-06 20:17:05.102 | DEBUG    | cli:_delete_tempfile:197 - Tempfile deleted. (/tmp/PCMin-1-tmp.29el2idh)
