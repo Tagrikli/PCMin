@@ -1,4 +1,4 @@
-RECORDINGS_DIR = "/home/tagrikli/Call Recordings/"
+RECORDINGS_DIR = "/home/purism/Call Recordings/"
 AUDIORATE = 48000
 LOG_LEVEL = 'DEBUG'
 NAME = 'PCMin'
